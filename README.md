@@ -2,6 +2,8 @@
 
 #                                        动态规划
 
+$ n^2 $
+
 * [Alchemist (dp 填表练习地址)](https://alchemist-al.com/algorithms/is-subsequence)
 
   ![image-20211006220212465](https://i.loli.net/2021/10/06/7JsHx1ilO3bLvQB.png)
